@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MySchoolMenus Calendar Gen//example.com//
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20250823T180210Z
+UID:2025-08-11_534_112096
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250812
+DTEND;VALUE=DATE:20250812
+DTSTAMP:20250823T180210Z
+UID:2025-08-12_534_112096
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250813
+DTSTAMP:20250823T180210Z
+UID:2025-08-13_534_112096
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250814
+DTSTAMP:20250823T180210Z
+UID:2025-08-14_534_112096
+DESCRIPTION:<h4>Aviator Special</h4><ul><li>Brunch for Lunch: French Toast
+  Sticks\, Sausage Patty\, and Scrambled Eggs</li></ul><h4>Main Flame</h4><
+ ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Cheeseburger</li></ul><h4
+ >Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></ul><h4>G
+ rab & Go</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape or St
+ rawberry</li><li>Yogurt Parfait with Fresh Berries & Homemade Granola</li>
+ <li>Yogurt Parfait with Peaches & Granola</li><li>Bagel Meal with String C
+ heese</li><li>Assorted Crispy Chicken Wraps</li><li>House Salad Meal</li><
+ /ul><h4>Optional Additions</h4><ul><li>Cinnamon Crumb Cake Loaf</li></ul><
+ h4>The Runway</h4><ul><li>Made to Order Deli Sandwich</li></ul><h4>Garden 
+ Hub</h4><ul><li>Assorted Fresh Vegetables</li><li>Warm Cinnamon Apples</li
+ ><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250815
+DTSTAMP:20250823T180210Z
+UID:2025-08-15_534_112096
+DESCRIPTION:<h4>Aviator Special</h4><ul><li>Brunch for Lunch: French Toast
+  Sticks\, Sausage Patty\, and Scrambled Eggs</li></ul><h4>Optional Additio
+ ns</h4><ul><li>Sweet Potato Fries</li><li>Syrup Cup</li></ul><h4>Main Flam
+ e</h4><ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Cheeseburger</li><
+ /ul><h4>Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></u
+ l><h4>Grab & Go</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grap
+ e or Strawberry</li><li>Yogurt Parfait with Fresh Berries & Homemade Grano
+ la</li><li>Yogurt Parfait with Peaches & Granola</li><li>Bagel Meal with S
+ tring Cheese</li><li>Assorted Crispy Chicken Wraps</li><li>House Salad Mea
+ l</li></ul><h4>Optional Additions</h4><ul><li>Cinnamon Crumb Cake Loaf</li
+ ></ul><h4>The Runway</h4><ul><li>Made to Order Deli Sandwich</li></ul><h4>
+ Garden Hub</h4><ul><li>Assorted Fresh Vegetables</li><li>Warm Cinnamon App
+ les</li><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20250823T180210Z
+UID:2025-08-18_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Build Your Own Mashed Potato Bowl!</
+ h4><ul><li>Homestyle Mashed Potato Bowl with Hawaiian Dinner Roll</li></ul
+ ><h4>Main Flame</h4><ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Chee
+ seburger</li></ul><h4>Optional Additions</h4><ul><li>Ketchup Packet</li><l
+ i>Mayonnaise Packet</li><li>Mustard Packet</li></ul><h4>Homeslice</h4><ul>
+ <li>Bosco Cheese Sticks with Marinara Sauce</li></ul><h4>Grab & Go</h4><ul
+ ><li>Large Peanut Butter & Jelly Uncrustable - Grape or Strawberry</li><li
+ >Yogurt Parfait with Fresh Berries & Homemade Granola</li><li>Yogurt Parfa
+ it with Peaches & Granola</li><li>Bagel Meal with String Cheese</li><li>As
+ sorted Crispy Chicken Wraps</li><li>House Salad Meal</li></ul><h4>Optional
+  Additions</h4><ul><li>Cinnamon Crumb Cake Loaf</li></ul><h4>The Runway</h
+ 4><ul><li>Made to Order Deli Sandwich</li></ul><h4>Garden Hub</h4><ul><li>
+ Steamed Corn</li><li>Assorted Fresh Vegetables</li><li>Assorted Fresh Frui
+ t</li><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250819
+DTSTAMP:20250823T180210Z
+UID:2025-08-19_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Taco Tuesday!</h4><ul><li>Homemade C
+ heese Quesadilla</li></ul><h4>Main Flame</h4><ul><li>Hot Dog on WG Bun</li
+ ><li>Crispy Chicken Sandwich</li><li>Spicy Chicken Sandwich</li></ul><h4>H
+ omeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></ul><h4>Gra
+ b & Go</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape or Stra
+ wberry</li><li>Yogurt Parfait with Fresh Berries & Homemade Granola</li><l
+ i>Yogurt Parfait with Peaches & Granola</li><li>Bagel Meal with String Che
+ ese</li><li>Assorted Crispy Chicken Wraps</li><li>House Salad Meal</li></u
+ l><h4>Optional Additions</h4><ul><li>Cinnamon Crumb Cake Loaf</li></ul><h4
+ >The Runway</h4><ul><li>Made to Order Deli Sandwich</li></ul><h4>Garden Hu
+ b</h4><ul><li>Fiesta Taco Black Beans</li><li>Assorted Fresh Vegetables</l
+ i><li>Assorted Fresh Fruit</li><li>Assorted Canned Fruit</li><li>Assorted 
+ Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250820
+DTSTAMP:20250823T180210Z
+UID:2025-08-20_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Wednesdays Are for Noodles!</h4><ul>
+ <li>Cincy Chili Spaghetti- 3 Way</li></ul><h4>Main Flame</h4><ul><li>Chick
+ en Tenders with Biscuit</li><li>Spicy Chicken Tenders with Biscuit</li><li
+ >Hamburger</li><li>Cheeseburger</li></ul><h4>Homeslice</h4><ul><li>Bosco C
+ heese Sticks with Marinara Sauce</li></ul><h4>Grab & Go</h4><ul><li>Large 
+ Peanut Butter & Jelly Uncrustable - Grape or Strawberry</li><li>Yogurt Par
+ fait with Fresh Berries & Homemade Granola</li><li>Yogurt Parfait with Pea
+ ches & Granola</li><li>Bagel Meal with String Cheese</li><li>Assorted Cris
+ py Chicken Wraps</li><li>House Salad Meal</li></ul><h4>Optional Additions<
+ /h4><ul><li>Cinnamon Crumb Cake Loaf</li></ul><h4>The Runway</h4><ul><li>M
+ ade to Order Deli Sandwich</li></ul><h4>Garden Hub</h4><ul><li>Seasoned Br
+ occoli</li><li>Assorted Fresh Vegetables</li><li>Assorted Fresh Fruit</li>
+ <li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250821
+DTSTAMP:20250823T180210Z
+UID:2025-08-21_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Brunch For Lunch!</h4><ul><li>Warm C
+ innamon Roll and Cheese Omelet</li><li>Sweet Potato Fries</li></ul><h4>Mai
+ n Flame</h4><ul><li>Hot Dog on WG Bun</li><li>Crispy Chicken Sandwich</li>
+ <li>Spicy Chicken Sandwich</li></ul><h4>Homeslice</h4><ul><li>Cheese Pizza
+ </li><li>Pepperoni Pizza</li></ul><h4>Grab & Go</h4><ul><li>Large Peanut B
+ utter & Jelly Uncrustable - Grape or Strawberry</li><li>Yogurt Parfait wit
+ h Fresh Berries & Homemade Granola</li><li>Yogurt Parfait with Peaches & G
+ ranola</li><li>Bagel Meal with String Cheese</li><li>Assorted Crispy Chick
+ en Wraps</li><li>House Salad Meal</li></ul><h4>Optional Additions</h4><ul>
+ <li>Cinnamon Crumb Cake Loaf</li></ul><h4>The Runway</h4><ul><li>Made to O
+ rder Deli Sandwich</li></ul><h4>Garden Hub</h4><ul><li>Assorted Fresh Vege
+ tables</li><li>Warm Cinnamon Apples</li><li>Assorted Fresh Fruit</li><li>A
+ ssorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250822
+DTSTAMP:20250823T180210Z
+UID:2025-08-22_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Seasonal Rotating Special!</h4><ul><
+ li>Chicken Fil-Ave's Sandwich</li></ul><h4>Optional Additions</h4><ul><li>
+ Seasoned French Fries</li></ul><h4>Main Flame</h4><ul><li>Turkey Corn Dog<
+ /li><li>Hamburger</li><li>Cheeseburger</li></ul><h4>Homeslice</h4><ul><li>
+ Personal Pan Cheese Pizza</li><li>Personal Pan Pepperoni Pizza</li></ul><h
+ 4>Grab & Go</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape or
+  Strawberry</li><li>Yogurt Parfait with Fresh Berries & Homemade Granola</
+ li><li>Yogurt Parfait with Peaches & Granola</li><li>Bagel Meal with Strin
+ g Cheese</li><li>Assorted Crispy Chicken Wraps</li><li>House Salad Meal</l
+ i></ul><h4>Optional Additions</h4><ul><li>Cinnamon Crumb Cake Loaf</li></u
+ l><h4>The Runway</h4><ul><li>Made to Order Deli Sandwich</li></ul><h4>Gard
+ en Hub</h4><ul><li>Mixed Veggies: Peas\, Corn\, Carrots & Green Beans</li>
+ <li>Assorted Fresh Vegetables</li><li>Assorted Fresh Fruit</li><li>Assorte
+ d Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20250823T180210Z
+UID:2025-08-25_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Mighty Chicken Monday!</h4><ul><li>C
+ hicken Tenders & Mac and Cheese</li><li>Seasoned French Fries</li></ul><h4
+ >Main Flame</h4><ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Cheesebu
+ rger</li></ul><h4>Homeslice</h4><ul><li>Bosco Cheese Sticks with Marinara 
+ Sauce</li></ul><h4>Grab & Go</h4><ul><li>Large Peanut Butter & Jelly Uncru
+ stable - Grape or Strawberry</li><li>Yogurt Parfait with Fresh Berries & H
+ omemade Granola</li><li>Yogurt Parfait with Peaches & Granola</li><li>Bage
+ l Meal with String Cheese</li><li>Assorted Crispy Chicken Wraps</li><li>Ho
+ use Salad Meal</li></ul><h4>Optional Additions</h4><ul><li>Cinnamon Crumb 
+ Cake Loaf</li></ul><h4>The Runway</h4><ul><li>Made to Order Deli Sandwich<
+ /li></ul><h4>Garden Hub</h4><ul><li>Mixed Veggies: Peas\, Corn\, Carrots &
+  Green Beans</li><li>Assorted Fresh Vegetables</li><li>Assorted Fresh Frui
+ t</li><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250826
+DTEND;VALUE=DATE:20250826
+DTSTAMP:20250823T180210Z
+UID:2025-08-26_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Taco Tuesday!</h4><ul><li>Beefy Nach
+ os</li></ul><h4>Or</h4><ul><li>Cheesy Nachos</li></ul><h4>Main Flame</h4><
+ ul><li>Hot Dog on WG Bun</li><li>Crispy Chicken Sandwich</li><li>Spicy Chi
+ cken Sandwich</li></ul><h4>Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepp
+ eroni Pizza</li></ul><h4>Grab & Go</h4><ul><li>Large Peanut Butter & Jelly
+  Uncrustable - Grape or Strawberry</li><li>Yogurt Parfait with Fresh Berri
+ es & Homemade Granola</li><li>Yogurt Parfait with Peaches & Granola</li><l
+ i>Bagel Meal with String Cheese</li><li>Assorted Crispy Chicken Wraps</li>
+ <li>House Salad Meal</li></ul><h4>Optional Additions</h4><ul><li>Cinnamon 
+ Crumb Cake Loaf</li></ul><h4>The Runway</h4><ul><li>Made to Order Deli San
+ dwich</li></ul><h4>Garden Hub</h4><ul><li>Fiesta Taco Black Beans</li><li>
+ Assorted Fresh Vegetables</li><li>Assorted Fresh Fruit</li><li>Assorted Ca
+ nned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250827
+DTSTAMP:20250823T180210Z
+UID:2025-08-27_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Wednesdays Are for Noodles!</h4><ul>
+ <li>Rotini with Marinara Sauce and Mozzarella Cheese</li></ul><h4>Or</h4><
+ ul><li>Rotini with Meat Sauce</li></ul><h4>Main Flame</h4><ul><li>Chicken 
+ Tenders with Biscuit</li><li>Spicy Chicken Tenders with Biscuit</li><li>Ha
+ mburger</li><li>Cheeseburger</li></ul><h4>Homeslice</h4><ul><li>Bosco Chee
+ se Sticks with Marinara Sauce</li></ul><h4>Grab & Go</h4><ul><li>Large Pea
+ nut Butter & Jelly Uncrustable - Grape or Strawberry</li><li>Yogurt Parfai
+ t with Fresh Berries & Homemade Granola</li><li>Yogurt Parfait with Peache
+ s & Granola</li><li>Bagel Meal with String Cheese</li><li>Assorted Crispy 
+ Chicken Wraps</li><li>House Salad Meal</li></ul><h4>Optional Additions</h4
+ ><ul><li>Cinnamon Crumb Cake Loaf</li></ul><h4>The Runway</h4><ul><li>Made
+  to Order Deli Sandwich</li></ul><h4>Garden Hub</h4><ul><li>Seasoned Brocc
+ oli</li><li>Assorted Fresh Vegetables</li><li>Assorted Fresh Fruit</li><li
+ >Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250828
+DTSTAMP:20250823T180210Z
+UID:2025-08-28_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Brunch For Lunch!</h4><ul><li>Belgia
+ n Waffle with Turkey Sausage Patties</li></ul><h4>Optional Additions</h4><
+ ul><li>Sweet Potato Fries</li><li>Syrup Cup</li></ul><h4>Main Flame</h4><u
+ l><li>Hot Dog on WG Bun</li><li>Crispy Chicken Sandwich</li><li>Spicy Chic
+ ken Sandwich</li></ul><h4>Homeslice</h4><ul><li>Cheese Pizza</li><li>Peppe
+ roni Pizza</li></ul><h4>Grab & Go</h4><ul><li>Large Peanut Butter & Jelly 
+ Uncrustable - Grape or Strawberry</li><li>Yogurt Parfait with Fresh Berrie
+ s & Homemade Granola</li><li>Yogurt Parfait with Peaches & Granola</li><li
+ >Bagel Meal with String Cheese</li><li>Assorted Crispy Chicken Wraps</li><
+ li>House Salad Meal</li></ul><h4>Optional Additions</h4><ul><li>Cinnamon C
+ rumb Cake Loaf</li></ul><h4>The Runway</h4><ul><li>Made to Order Deli Sand
+ wich</li></ul><h4>Garden Hub</h4><ul><li>Assorted Fresh Vegetables</li><li
+ >Warm Cinnamon Apples</li><li>Assorted Fresh Fruit</li><li>Assorted Canned
+  Fruit</li><li>Assorted Craisins</li></ul>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greene Lunch
+DTSTART;VALUE=DATE:20250829
+DTEND;VALUE=DATE:20250829
+DTSTAMP:20250823T180210Z
+UID:2025-08-29_534_112096
+DESCRIPTION:<i>Aviator Special</i><h4>Seasonal Rotating Special!</h4><ul><
+ li>Beef & Cheese Hoagie</li></ul><h4>Main Flame</h4><ul><li>Turkey Corn Do
+ g</li><li>Hamburger</li><li>Cheeseburger</li></ul><h4>Homeslice</h4><ul><l
+ i>Personal Pan Cheese Pizza</li><li>Personal Pan Pepperoni Pizza</li></ul>
+ <h4>Grab & Go</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape 
+ or Strawberry</li><li>Yogurt Parfait with Fresh Berries & Homemade Granola
+ </li><li>Yogurt Parfait with Peaches & Granola</li><li>Bagel Meal with Str
+ ing Cheese</li><li>Assorted Crispy Chicken Wraps</li><li>House Salad Meal<
+ /li></ul><h4>Optional Additions</h4><ul><li>Cinnamon Crumb Cake Loaf</li><
+ /ul><h4>The Runway</h4><ul><li>Made to Order Deli Sandwich</li></ul><h4>Ga
+ rden Hub</h4><ul><li>Seasoned Green Beans</li><li>Assorted Fresh Vegetable
+ s</li><li>Assorted Fresh Fruit</li><li>Assorted Canned Fruit</li><li>Assor
+ ted Craisins</li></ul>
+END:VEVENT
+END:VCALENDAR
