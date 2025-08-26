@@ -1,147 +1,170 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//MySchoolMenus Calendar Gen//example.com//
+PRODID:-//MySchoolMenus ICS Gen//-//
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250814
 DTEND;VALUE=DATE:20250814
-DTSTAMP:20250824T110901Z
-UID:2025-08-14_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><ul><li>Brunch for Lunch: French Toast
-  Sticks\, Sausage Patty\, and Scrambled Eggs</li></ul><h4>Main Flame</h4><
- ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Cheeseburger</li></ul><h4
- >Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></ul><h4>N
- one</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-14_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Warm Cinnamon Roll and Cheese Omele
+ t</li></ul><h4>Alternate Hot Lunch</h4><ul><li>Turkey Corn Dog</li></ul><h
+ 4>Cold Lunch</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape o
+ r Strawberry</li></ul><h4>Vegetables</h4><ul><li>Sweet Potato Fries</li><l
+ i>Assorted Fresh Vegetables</li><li> - With - </li><li>Ranch Dressing</li>
+ </ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</li><li>Assorted Canned Fr
+ uit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250815
 DTEND;VALUE=DATE:20250815
-DTSTAMP:20250824T110901Z
-UID:2025-08-15_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><ul><li>Brunch for Lunch: French Toast
-  Sticks\, Sausage Patty\, and Scrambled Eggs</li></ul><h4>Main Flame</h4><
- ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Cheeseburger</li></ul><h4
- >Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></ul><h4>N
- one</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-15_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Warm Cinnamon Roll and Cheese Omele
+ t</li></ul><h4>Alternate Hot Lunch</h4><ul><li>Turkey Corn Dog</li></ul><h
+ 4>Cold Lunch</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape o
+ r Strawberry</li></ul><h4>Vegetables</h4><ul><li>Sweet Potato Fries</li><l
+ i>Assorted Fresh Vegetables</li><li> - With - </li><li>Ranch Dressing</li>
+ </ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</li><li>Assorted Canned Fr
+ uit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250818
 DTEND;VALUE=DATE:20250818
-DTSTAMP:20250824T110901Z
-UID:2025-08-18_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Build Your Own Mashed Potato Bowl!<
- /i><ul><li>Homestyle Mashed Potato Bowl with Hawaiian Dinner Roll</li></ul
- ><h4>Main Flame</h4><ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Chee
- seburger</li></ul><h4>Homeslice</h4><ul><li>Bosco Cheese Sticks with Marin
- ara Sauce</li></ul><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-18_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Chicken Tenders with Mac N' Cheese<
+ /li></ul><h4>Alternate Hot Lunch</h4><ul><li>Pepperoni Calzone</li><li>Mar
+ inara Sauce</li></ul><h4>Cold Lunch</h4><ul><li>Moo Meal</li></ul><h4>Vege
+ tables</h4><ul><li>Steamed Corn</li><li>Assorted Fresh Vegetables</li><li>
+  - With - </li><li>Ranch Dressing</li></ul><h4>Fruit</h4><ul><li>Assorted 
+ Fresh Fruit</li><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></
+ ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250819
 DTEND;VALUE=DATE:20250819
-DTSTAMP:20250824T110901Z
-UID:2025-08-19_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Taco Tuesday!</i><ul><li>Homemade C
- heese Quesadilla</li></ul><h4>Main Flame</h4><ul><li>Hot Dog on WG Bun</li
- ><li>Crispy Chicken Sandwich</li><li>Spicy Chicken Sandwich</li></ul><h4>H
- omeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></ul><h4>Non
- e</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-19_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Beefy Nachos</li></ul><h4>Alternate
+  Hot Lunch</h4><ul><li>Turkey Ham & Cheese Sandwich on Hawaiian Bun</li></
+ ul><h4>Cold Lunch</h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Gr
+ ape or Strawberry</li></ul><h4>Vegetables</h4><ul><li>Fiesta Taco Black Be
+ ans</li><li>Assorted Fresh Vegetables</li><li> - With - </li><li>Ranch Dre
+ ssing</li></ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</li><li>Assorted
+  Canned Fruit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250820
 DTEND;VALUE=DATE:20250820
-DTSTAMP:20250824T110901Z
-UID:2025-08-20_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Wednesdays Are for Noodles!</i><ul>
- <li>Cincy Chili Spaghetti- 3 Way</li></ul><h4>Main Flame</h4><ul><li>Chick
- en Tenders with Biscuit</li><li>Spicy Chicken Tenders with Biscuit</li><li
- >Hamburger</li><li>Cheeseburger</li></ul><h4>Homeslice</h4><ul><li>Bosco C
- heese Sticks with Marinara Sauce</li></ul><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-20_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Chicken Fil-Ave's Sandwich</li></ul
+ ><h4>Alternate Hot Lunch</h4><ul><li>Turkey Corn Dog</li></ul><h4>Cold Lun
+ ch</h4><ul><li>Moo Meal</li></ul><h4>Vegetables</h4><ul><li>Seasoned Green
+  Beans</li><li>Assorted Fresh Vegetables</li><li> - With - </li><li>Ranch 
+ Dressing</li></ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</li><li>Assor
+ ted Canned Fruit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250821
 DTEND;VALUE=DATE:20250821
-DTSTAMP:20250824T110901Z
-UID:2025-08-21_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Brunch For Lunch!</i><ul><li>Warm C
- innamon Roll and Cheese Omelet</li><li>Sweet Potato Fries</li></ul><h4>Non
- e</h4><h4>Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li><
- /ul><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-21_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>French Toast Sticks & Sausage</li><
+ /ul><h4>Alternate Hot Lunch</h4><ul><li>Pepperoni Calzone</li><li>Marinara
+  Sauce</li></ul><h4>Cold Lunch</h4><ul><li>Large Peanut Butter & Jelly Unc
+ rustable - Grape or Strawberry</li></ul><h4>Vegetables</h4><ul><li>Sweet P
+ otato Fries</li><li>Assorted Fresh Vegetables</li><li> - With - </li><li>R
+ anch Dressing</li></ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</li><li>
+ Assorted Canned Fruit</li><li>Assorted Craisins</li></ul><h4>Milk</h4><ul>
+ <li>White Milk\, 1%</li><li>Chocolate Milk\, Fat Free</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250822
 DTEND;VALUE=DATE:20250822
-DTSTAMP:20250824T110901Z
-UID:2025-08-22_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Seasonal Rotating Special!</i><ul><
- li>Chicken Fil-Ave's Sandwich</li></ul><h4>Main Flame</h4><ul><li>Turkey C
- orn Dog</li><li>Hamburger</li><li>Cheeseburger</li></ul><h4>Homeslice</h4>
- <ul><li>Personal Pan Cheese Pizza</li><li>Personal Pan Pepperoni Pizza</li
- ></ul><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-22_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>French Bread Garlic Cheese Pizza</l
+ i><li> - Or - </li></ul><h4>Cold Lunch</h4><ul><li>Salad Meal with Graham 
+ Crackers</li></ul><h4>Vegetables</h4><ul><li>Seasoned Broccoli</li><li>Ass
+ orted Fresh Vegetables</li></ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit
+ </li><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250825
 DTEND;VALUE=DATE:20250825
-DTSTAMP:20250824T110901Z
-UID:2025-08-25_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Mighty Chicken Monday!</i><ul><li>C
- hicken Tenders & Mac and Cheese</li><li>Seasoned French Fries</li></ul><h4
- >Main Flame</h4><ul><li>Turkey Corn Dog</li><li>Hamburger</li><li>Cheesebu
- rger</li></ul><h4>Homeslice</h4><ul><li>Bosco Cheese Sticks with Marinara 
- Sauce</li></ul><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-25_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><i>Build You Own Mashed Potato Bowl!</i><ul
+ ><li>Chicken Smackers</li><li>Sweet Hawaiian Roll</li></ul><h4>Alternate H
+ ot Lunch</h4><ul><li>Turkey Ham & Cheese Sandwich on Hawaiian Bun</li></ul
+ ><h4>Cold Lunch</h4><ul><li>Moo Meal</li></ul><h4>Vegetables</h4><ul><li>M
+ ashed Potatoes</li><li> - With - </li><li>Chicken Gravy</li><li> - Or - </
+ li><li>Assorted Fresh Vegetables</li><li> - With - </li><li>Ranch Dressing
+ </li></ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</li><li>Assorted Cann
+ ed Fruit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250826
 DTEND;VALUE=DATE:20250826
-DTSTAMP:20250824T110901Z
-UID:2025-08-26_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Taco Tuesday!</i><ul><li>Beefy Nach
- os</li></ul><h4>None</h4><h4>Main Flame</h4><ul><li>Hot Dog on WG Bun</li>
- <li>Crispy Chicken Sandwich</li><li>Spicy Chicken Sandwich</li></ul><h4>Ho
- meslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pizza</li></ul><h4>None
- </h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-26_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Cheesy Bosco Breadsticks</li></ul><
+ h4>Alternate Hot Lunch</h4><ul><li>Turkey Corn Dog</li></ul><h4>Cold Lunch
+ </h4><ul><li>Large Peanut Butter & Jelly Uncrustable - Grape or Strawberry
+ </li></ul><h4>Vegetables</h4><ul><li>Seasoned Green Beans</li><li>Assorted
+  Fresh Vegetables</li><li> - With - </li><li>Ranch Dressing</li></ul><h4>F
+ ruit</h4><ul><li>Assorted Fresh Fruit</li><li>Assorted Canned Fruit</li><l
+ i>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250827
-DTSTAMP:20250824T110901Z
-UID:2025-08-27_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Wednesdays Are for Noodles!</i><ul>
- <li>Rotini with Marinara Sauce and Mozzarella Cheese</li></ul><h4>None</h4
- ><h4>Main Flame</h4><ul><li>Chicken Tenders with Biscuit</li><li>Spicy Chi
- cken Tenders with Biscuit</li><li>Hamburger</li><li>Cheeseburger</li></ul>
- <h4>Homeslice</h4><ul><li>Bosco Cheese Sticks with Marinara Sauce</li></ul
- ><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-27_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Hamburger</li><li> - Or - </li><li>
+ Cheeseburger</li></ul><h4>Alternate Hot Lunch</h4><ul><li>Pepperoni Calzon
+ e</li><li>Marinara Sauce</li></ul><h4>Cold Lunch</h4><ul><li>Moo Meal</li>
+ </ul><h4>Vegetables</h4><ul><li>Homemade Baked Beans</li><li>Assorted Fres
+ h Vegetables</li><li> - With - </li><li>Ranch Dressing</li></ul><h4>Fruit<
+ /h4><ul><li>Assorted Fresh Fruit</li><li>Assorted Canned Fruit</li><li>Ass
+ orted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250828
 DTEND;VALUE=DATE:20250828
-DTSTAMP:20250824T110901Z
-UID:2025-08-28_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Brunch For Lunch!</i><ul><li>Belgia
- n Waffle with Turkey Sausage Patties</li></ul><h4>Main Flame</h4><ul><li>H
- ot Dog on WG Bun</li><li>Crispy Chicken Sandwich</li><li>Spicy Chicken San
- dwich</li></ul><h4>Homeslice</h4><ul><li>Cheese Pizza</li><li>Pepperoni Pi
- zza</li></ul><h4>None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-28_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Mini Waffles with Cheesy Omelet</li
+ ></ul><h4>Alternate Hot Lunch</h4><ul><li>Turkey Ham & Cheese Sandwich on 
+ Hawaiian Bun</li></ul><h4>Cold Lunch</h4><ul><li>Large Peanut Butter & Jel
+ ly Uncrustable - Grape or Strawberry</li></ul><h4>Vegetables</h4><ul><li>S
+ weet Potato Fries</li><li>Assorted Fresh Vegetables</li><li> - With - </li
+ ><li>Ranch Dressing</li></ul><h4>Fruit</h4><ul><li>Assorted Fresh Fruit</l
+ i><li>Assorted Canned Fruit</li><li>Assorted Craisins</li></ul>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greene Lunch
+SUMMARY:Montgomery Lunch
 DTSTART;VALUE=DATE:20250829
 DTEND;VALUE=DATE:20250829
-DTSTAMP:20250824T110901Z
-UID:2025-08-29_534_112096
-DESCRIPTION:<h4>Aviator Special</h4><i>Seasonal Rotating Special!</i><ul><
- li>Beef & Cheese Hoagie</li></ul><h4>None</h4><h4>Homeslice</h4><ul><li>Pe
- rsonal Pan Cheese Pizza</li><li>Personal Pan Pepperoni Pizza</li></ul><h4>
- None</h4>
+DTSTAMP:20250826T165420Z
+UID:2025-08-29_534_112095
+DESCRIPTION:<h4>Main Lunch</h4><ul><li>Personal Pan Cheese Pizza</li><li> 
+ - Or - </li><li>Personal Pan Pepperoni Pizza</li></ul><h4>Cold Lunch</h4><
+ ul><li>Salad Meal with Graham Crackers</li></ul><h4>Vegetables</h4><ul><li
+ >Seasoned Broccoli</li><li>Assorted Fresh Vegetables</li></ul><h4>Fruit</h
+ 4><ul><li>Assorted Fresh Fruit</li><li>Assorted Canned Fruit</li><li>Assor
+ ted Craisins</li></ul>
 END:VEVENT
 END:VCALENDAR
